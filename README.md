@@ -10,6 +10,6 @@
 
 ![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=albertotono&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmyqsh&layout=compact&theme=darcula)](https://github.com/albertotono/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertotono&layout=compact&theme=darcula)](https://github.com/albertotono/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=albertotono.count_visitors)
