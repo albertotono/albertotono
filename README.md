@@ -8,6 +8,8 @@
 :man_technologist: I am passionate about **Geometric Deep Learning , Open-Source and AEC** & I love interacting with other developers! :wink:
 
 
-![Rushabh's github stats](https://github-readme-stats.vercel.app/api?username=albertotono&show_icons=true&theme=vue-dark)
+![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=albertotono&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmyqsh&layout=compact&theme=darcula)](https://github.com/albertotono/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=albertotono.count_visitors)
