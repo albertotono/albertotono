@@ -5,7 +5,7 @@
 
 ### About me :rocket:
 :mortar_board:  Geometric Deep Learning Researcher
-:man_technologist: I am passionate about **Geometric Deep Learning , Open-Source and AEC** & I love interacting with other developers! :wink:
+:man_technologist: I am passionate about **Geometric Deep Learning , Open-Source and AEC** & I love interacting with other developers! :wink: <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
 
 ![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=albertotono&show_icons=true&theme=vue-dark)
